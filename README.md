@@ -4,7 +4,7 @@ Nama Aplikasi : Petunjuk Arah
 
 Deskripsi Aplikasi : Aplikasi ini adalah aplikasi penunjuk arah mata angin. Aplikasi ini dibangun dengan Expo SDK v43.
 
-#Package
+# Package
 
 Package yang digunakan adalah Magnetometer dari expo-sensors. Package Magnetometer ini digunakan untuk mengatur sensor Magnetometer yang biasanya ada di perangkat android untuk mengidentifikasi arah dan menghitung derajat sudut.
 
